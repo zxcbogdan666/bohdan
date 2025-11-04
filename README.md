@@ -5,12 +5,12 @@
 Завдання 1: 
 КОД: 
 
-`full_name = "Oleg Shevchenko"
+full_name = "Oleg Shevchenko"
 first_letter = full_name[0]
 space_index = full_name.find(" ")
 second_letter = full_name[space_index + 1]
 initials = first_letter + second_letter
-print("initsials = ", initials)`
+print("initsials = ", initials)
 
 screenshot [https://ibb.co/v4kHCV21](url)
 
